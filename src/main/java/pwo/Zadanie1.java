@@ -1,3 +1,4 @@
+package pwo;
 
 public class Zadanie1 {
 
